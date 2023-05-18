@@ -1,0 +1,8 @@
+#contactBtn{
+    border: 1px solid #FD6E0A;
+    color: #FD6E0A;
+}
+#contactBtn:hover{
+    color: white;
+    background-color: #FD6E0A;
+}

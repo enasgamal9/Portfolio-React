@@ -1,0 +1,9 @@
+.container{
+    padding: 30px;
+}
+
+.container>h1{
+    color: #FD6E0A;
+    text-align: center;
+    font-weight: bolder;
+}

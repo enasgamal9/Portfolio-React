@@ -1,0 +1,19 @@
+.aboutMeStyle {
+    margin-top: 50px;
+    margin-left: 150px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  
+  .aboutMeStyle > h1 {
+    color: #6F6B9F;
+    margin-right: 100px;
+    margin-bottom: 120px;
+    text-shadow: 2px 2px 2px #11224f;
+  }
+  
+  .aboutMeStyle > div > p {
+    color: #11224f;
+    margin-bottom: 30px;
+  }

@@ -1,0 +1,22 @@
+.card {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  background-color: #FDF8F7;
+  color: #15295F;
+  padding: 20px;
+  margin: 20px;
+  width: 25%;
+  height: 150px;
+  display: inline-block;
+  text-align: center;
+}
+.card:hover {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.card h2 {
+  font-size: 24px;
+  margin-top: 0;
+  margin-bottom: 10px;
+}

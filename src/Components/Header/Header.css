@@ -1,0 +1,20 @@
+.headerStyle {
+    height: 600px;
+    background-image: url('https://wp.shsarker.xyz/dora/wp-content/uploads/2023/04/hero-person-img.png');
+    background-repeat: no-repeat;
+    background-position-x: 70%;
+    background-color: #FDF8F7;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    padding-left: 100px;
+  }
+.headerStyle>h1{
+    color: #15295F;
+    font-size: 70px;
+    font-weight: bolder;
+}
+.headerStyle>h5{
+    color: #6F6B9F;
+}
